@@ -14,6 +14,9 @@ contributor:
     deathdate: 1946
     gutenberg_agent_id: '33565'
     url: http://www.gutenberg.org/2009/agents/33565
+covers:
+- cover_type: archival
+  image_path: 67357-h/images/cover.jpg
 creator:
   author:
     agent_name: Thanet, Octave
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1073
     wikipedia: https://en.wikipedia.org/wiki/Alice_French
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67357#The-Missionary-Sheriff-Being-incidents-in-the-life-of-a-plain-man-who-tried-to-do-his-duty
 gutenberg_issued: '2022-02-08'
 identifiers:
   gutenberg: '67357'
